@@ -8,7 +8,7 @@
   <body>
     <h1>{{ title }}</h1>
     <p>This service will insult you. It will sign the insults with a Swedish
-      name, because it's an evil service. Go on,
+      name, because it's an evil service, and swedes are evil. Go on,
       <a href="/insult">give it a try.</a></p>
   </body>
 </html>
